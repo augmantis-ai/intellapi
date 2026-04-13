@@ -1,0 +1,10 @@
+{
+  "name": "sample-nextjs-app",
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "es2017"],
+    "strict": true,
+    "jsx": "preserve",
+    "moduleResolution": "bundler"
+  }
+}

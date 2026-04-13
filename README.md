@@ -71,7 +71,7 @@ You have full control over which AI engine powers your documentation generation:
 |----------|------------|
 | **AWS Bedrock** | Uses your standard secure AWS credentials. Perfect for highly sensitive enterprise environments. |
 | **Anthropic (Claude)** | Highly recommended. Fast and intelligent. Provide your API key during setup. Your key is kept secure inside your OS. |
-| **OpenAI-Compatible** | Works with standard OpenAI, but also perfectly supports local, completely private AI models (like Ollama) for maximum data security. |
+| **OpenAI-Compatible** | Works with standard OpenAI, completely private local models (like Ollama/vLLM), and all major AI Gateways and Inference platforms (OpenRouter, Groq, Together AI, LiteLLM, Portkey, etc.). |
 
 ---
 

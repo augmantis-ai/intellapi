@@ -12,7 +12,7 @@ However, **documenting** these APIs so that other programmers know exactly how t
 
 **Intellapi is the solution.** It acts like an incredibly smart robot that reads through your entire backend codebase, understands exactly how your software works without breaking anything, and then uses advanced AI to automatically write crystal-clear, professional documentation for you. 
 
-## ✨ Key Features (in plain English)
+## ✨ Key Features
 - **Zero Risk:** It reads your code safely like a book. It never actually runs or executes your software.
 - **Privacy First:** We don't send your secret keys, passwords, or irrelevant files to the AI. Only the structural shape of your code is analyzed.
 - **Smart Detection:** Point it at a folder, and it will automatically detect what programming language and framework your engineering team used.

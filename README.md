@@ -1,6 +1,7 @@
 # 🚀 Intellapi
 
 **An intelligent, AI-powered system that reads your code and automatically writes your API documentation.**
+**Stop writing API docs. Let your code do it for you.**
 
 ---
 
